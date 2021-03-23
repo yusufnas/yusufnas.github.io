@@ -103,7 +103,7 @@ body{
     height: 400px;
     border-radius: 100%;
 }
-@media (min-width: 1024px){
+@media (min-width: 450px){
   .img-foto{
     margin-left: 25%;
   }
