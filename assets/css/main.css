@@ -101,8 +101,12 @@ body{
 .img-foto{
 	width: 300px;
     height: 400px;
-    margin-left: 25%;
     border-radius: 100%;
+}
+@media (min-width: 1024px){
+  .img-foto{
+    margin-left: 25%;
+  }
 }
 .btn-button{
 	background-color: #fff;
@@ -770,3 +774,4 @@ footer{
   opacity: 1;
   transform: none;
 }
+
