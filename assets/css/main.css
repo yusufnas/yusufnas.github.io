@@ -1,5 +1,5 @@
 body{
-	background-color: #f9f9f9;
+	background-color: #fff;
 	font-family: "Crimson Text";
 }
 
@@ -106,6 +106,10 @@ body{
 @media (min-width: 450px){
   .img-foto{
     margin-left: 25%;
+  }
+
+  body{
+    background-color: #f9f9f9;
   }
 }
 .btn-button{
