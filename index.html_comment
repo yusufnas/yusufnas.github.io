@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html_comment lang="en">
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     </head>
 
-    <body_comment>
+    <body>
         <div id="index">                                           <!-- Index starts here -->
             <div class="container main">
                 <div class="row home">
@@ -296,4 +296,4 @@
         <script src="assets/js/bootstrap.min.js"></script>
         <script src="assets/js/script.js"></script>
     </body>
-</html_comment>
+</html>
